@@ -1,0 +1,13 @@
+info:
+  title: Schema Matching Microservice
+  description: Schema Matching API
+  version: 0.0.0
+
+servers:
+  - url: https://localhost:6000
+    description: Internal development server (dev)
+
+tags:
+  - name: file_upload
+    description: File Upload
+
